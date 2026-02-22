@@ -2,7 +2,7 @@
 #define APP_CONFIG_H
 
 #// Basic Ident
-#define FW_VERSION "0.8.6"
+#define FW_VERSION "0.8.7"
 #define FS_VERSION "0.1.0"
 #define DEFAULT_HOSTNAME "esp32-av-tool"
 // OTA manifest via raw.githubusercontent.com (no redirects, direct TLS)
